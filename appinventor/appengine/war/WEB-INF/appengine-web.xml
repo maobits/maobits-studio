@@ -26,6 +26,7 @@
     <include path="/ode/**.json" expiration="0s" />
     <include path="/ode/**.java" expiration="0s" />
     <include path="/ode/cdnok.js" expiration="3600s" />
+    <include path="/ode/ode.devmode.js" expiration="0s" />
     <include path="/index.html" expiration="0s" />
 
     <include path="/ode/**.cache.*" expiration="365d" />
